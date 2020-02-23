@@ -1,0 +1,16 @@
+{
+  "Category": [
+    {
+      "Name": "Fantastique",
+      "Discount": 0.05
+    }
+  ],
+  "Catalog": [
+    {
+      "Name": "J.K Rowling - Goblet Of fire",
+      "Category": "Fantastique",
+      "Price": 8,
+      "Quantity": 2
+    }
+  ]
+}
